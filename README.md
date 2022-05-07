@@ -8,7 +8,7 @@ UOD wants to set up a database to record details about its Staff, and the depart
 
 
 
-# What is an Entity Relationship Diagram (ER Diagram)?
+# University of DataBite (UoD) Staff Management System
 
 An ER diagram shows the relationship among entity sets. An entity set is a group of similar
 entities and these entities can have attributes. In terms of DBMS, an entity is a table or attribute
