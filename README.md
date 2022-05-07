@@ -10,8 +10,8 @@ UOD wants to set up a database to record details about its Staff, and the depart
 -N M Nishad - Project Manager - S92087169
 -M Z Shamla - Project Secretary - S92083773
 -M Sharmika - Project Editor- S92086026
--P R T Dananjani - Creative Director - S92083136
--A F M Aslam - Project Notetaker - S92085211
+-P R T Dananjani - Project CEO - S92083136
+-A F M Aslam - Project Coordinator - S92085211
 
 
 
