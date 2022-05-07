@@ -1,4 +1,15 @@
+#University of DataBite (UoD) Staff Management System
+
+UOD is one of the leading Universities in Colombo, Srilanka. Established in 1890. UOD provides a wide range of undergraduate and postgraduate programs  in Engineering, Technology and Business Management.
+
+UOD wants to set up a database to record details about its Staff, and the departments they belong to. They intend to record the following information. For each member of staff, their staff identity number, name, job title, and salary, for each department, its name and address, and for each member of staff, all departments that they belong to. It is required that every member of staff belongs to at least one department. For each department, there is a head of department. It is required that each department has exactly one head of department. 
+
+##We will be developing a system to manage the day-to-day activities of this university.
+
+
+
 # What is an Entity Relationship Diagram (ER Diagram)?
+
 An ER diagram shows the relationship among entity sets. An entity set is a group of similar
 entities and these entities can have attributes. In terms of DBMS, an entity is a table or attribute
 of a table in database, so by showing relationship among tables and their attributes, ER diagram
