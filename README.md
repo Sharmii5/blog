@@ -6,6 +6,14 @@ UOD wants to set up a database to record details about its Staff, and the depart
 
 ##We will be developing a system to manage the day-to-day activities of this university.
 
+### Team member with the student numbers. 
+-N M Nishad - Project Manager - S92087169
+-M Z Shamla - Project Secretary - S92083773
+-M Sharmika - Project Editor- S92086026
+-P R T Dananjani - Creative Director - S92083136
+-A F M Aslam - Project Notetaker - S92085211
+
+
 
 
 # University of DataBite (UoD) Staff Management System
